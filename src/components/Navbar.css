@@ -1,0 +1,19 @@
+.child1{
+    justify-content: flex-end;
+    color: black;
+}
+.logo{
+    display: flex;
+    
+}
+.navbar{
+background-color:#a3c6ee;
+
+}
+.a{
+    color:#000002;
+}
+hr{
+    height: 3px;
+    color: #000002;
+}

@@ -1,0 +1,15 @@
+.row{
+    justify-content: space-around;
+}
+.card{
+    box-shadow:3px 4px 8px black;
+    background-color: #dbecf0;
+    margin: 2px;
+}
+.btn{
+    background-color:#747474;
+    font-weight: bold;
+    color: white;
+}
+.par{
+}

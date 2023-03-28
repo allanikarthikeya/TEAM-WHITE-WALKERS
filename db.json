@@ -1,0 +1,373 @@
+{
+  "users": [
+    {
+      "username": "shravani",
+      "password": "acm@12345",
+      "id": 1
+    },
+    {
+      "username": "sushma",
+      "password": "csi@12345",
+      "id": 2
+    }
+  ],
+  "booking": [
+    {
+      "venue": "KS Auditorium",
+      "stime": "14:54",
+      "etime": "17:54",
+      "date": "2023-03-23",
+      "id": 1
+    },
+    {
+      "venue": "Seminar Hall",
+      "stime": "16:20",
+      "etime": "19:20",
+      "date": "2023-03-25",
+      "id": 2
+    },
+    {
+      "venue": "KS Auditorium",
+      "stime": "16:41",
+      "etime": "17:41",
+      "date": "2021-01-04",
+      "id": 4
+    }
+  ],
+  "faculty": [
+    {
+      "username": "bharath kumar",
+      "password": "fac@12345",
+      "id": 1
+    },
+    {
+      "username": "murali mohan",
+      "password": "fac@12345",
+      "id": 1
+    }
+  ],
+  "timings": [
+    {
+      "venue": "KS Auditorium",
+      "stime": "14:54",
+      "etime": "17:54",
+      "date": "2023-03-23",
+      "id": 1
+    },
+    {
+      "venue": "Seminar Hall",
+      "stime": "16:20",
+      "etime": "19:20",
+      "date": "2023-03-25",
+      "id": 2
+    },
+    {
+      "venue": "KS Auditorium",
+      "stime": "16:41",
+      "etime": "17:41",
+      "date": "2023-03-30",
+      "id": 3
+    },
+    {
+      "venue": "KS Auditorium",
+      "stime": "16:41",
+      "etime": "17:41",
+      "date": "2021-01-04",
+      "id": 4
+    }
+  ],
+  "log": [],
+  "report": [
+    {
+      "date": "2023-03-07",
+      "time": "7.00pm to 9.00pm",
+      "mode": "online",
+      "review": "Make a registration form\nCreate QR code for the Registration form\nMake a feedback form Feedback form \nPoster and description for the poster\nContents in poster - Topics (6-7) \nIf clubbing of topics is possible club them and submit by today night\nHosting script for a debate I.e. the rules which for the debate by tomorrow evening \nPermission for pulling is from 2 40 on paper but we can start it from 2 o'clock \nEvent will be hosted by seniors",
+      "id": 1
+    },
+    {
+      "date": "2023-03-18",
+      "time": "9.00am to 11.00am",
+      "mode": "offline",
+      "review": "1.Every volunteer has to attend the meet.\n2.Should think how to implement the events.\n3.The event can be either in the  on-line mode or offline mode.\n4.If the event is of questionnaire then the complexity of the questions should be  maintained.\n5.The event which is to going to be conducted should be very useful and one should learn something.\n6.If the flow of  event is not properly implemented then the permission will not be taken by seniors.\n",
+      "id": 2
+    },
+    {
+      "date": "2023-03-08",
+      "time": "12.00pm to 3.00pm",
+      "mode": "offline",
+      "review": "this is a good event",
+      "id": 3
+    }
+  ],
+  "ACM": [
+    {
+      "Name": "Mr.S. Murali Mohan",
+      "Designation": "Faculty co-ordinator",
+      "email": "s.muralimohan@vnrvjiet.in",
+      "contact": "9873619038"
+    },
+    {
+      "Name": "Shravani Garine",
+      "Designation": "Chairperson",
+      "email": "shravani_g@vnrvjiet.in",
+      "contact": "9865489990"
+    },
+    {
+      "Name": "Akhil KVK",
+      "Designation": "Vice Chairperson",
+      "email": "akhil_kvk@vnrvjiet.in",
+      "contact": "9876733038"
+    },
+    {
+      "Name": "Sai Vamshi Kola",
+      "Designation": "Secretary",
+      "email": "saivamshi_k@vnrvjiet.in",
+      "contact": "9000619038"
+    },
+    {
+      "Name": "Dhanush.G",
+      "Designation": "Tressurer",
+      "email": "dhanush_g@vnrvjiet.in",
+      "contact": "9000689038"
+    },
+    {
+      "Name": "Sravani Gandla",
+      "Designation": "Membership Chair",
+      "email": "sravani_g@vnrvjiet.in",
+      "contact": "8790543213"
+    },
+    {
+      "Name": "Avigna Gandra",
+      "Designation": "Webmaster",
+      "email": "avigna_g@vnrvjiet.in",
+      "contact": "7865356890"
+    },
+    {
+      "Name": "K. Naga Sai Nithin",
+      "Designation": "Activities Coordinator",
+      "email": "nithin@vnrvjiet.in",
+      "contact": "8654367009"
+    }
+  ],
+  "CSI": [
+    {
+      "Name": "Mr. Ch Sumanth",
+      "Designation": "Faculty co-ordinator",
+      "email": "sumanth@vnrvjiet.in",
+      "contact": "9873619038"
+    },
+    {
+      "Name": "Yahwanth Sabbithi",
+      "Designation": "Chairman",
+      "email": "yahwanth_s@vnrvjiet.in",
+      "contact": "9865489990"
+    },
+    {
+      "Name": "Praveen Kollipara",
+      "Designation": "General Secretary",
+      "email": "praveen_k@vnrvjiet.in",
+      "contact": "9876733038"
+    },
+    {
+      "Name": "Vaishnavi Sunkara",
+      "Designation": "Tressurer",
+      "email": "vaishnavi/_s@vnrvjiet.in",
+      "contact": "9000619038"
+    },
+    {
+      "Name": "Sushma Kunchala",
+      "Designation": "President",
+      "email": "sushma_k@vnrvjiet.in",
+      "contact": "9000689038"
+    },
+    {
+      "Name": "Sushanth Manishetty",
+      "Designation": "Director",
+      "email": "sushanth@vnrvjiet.in",
+      "contact": "8790543213"
+    },
+    {
+      "Name": "Saketh Pallavulu",
+      "Designation": "Vice Chairman",
+      "email": "saketh@vnrvjiet.in",
+      "contact": "7865356890"
+    },
+    {
+      "Name": "Rutvik Reddy",
+      "Designation": "Non-technical Head",
+      "email": "rutvik@vnrvjiet.in",
+      "contact": "8654367009"
+    }
+  ],
+  "GDSC": [
+    {
+      "Name": "Mr.Bharath Kumar",
+      "Designation": "Faculty co-ordinator",
+      "email": "bharath@vnrvjiet.in",
+      "contact": "9873619038"
+    },
+    {
+      "Name": "Prithvi",
+      "Designation": "Web developer",
+      "email": "prithvi@vnrvjiet.in",
+      "contact": "9865489990"
+    },
+    {
+      "Name": "Vinay Vardhan",
+      "Designation": "Designing Head",
+      "email": "vinay_v@vnrvjiet.in",
+      "contact": "9876733038"
+    },
+    {
+      "Name": "Samith Reddy Kosana",
+      "Designation": "PR Team",
+      "email": "samith@vnrvjiet.in",
+      "contact": "9000619038"
+    },
+    {
+      "Name": "Akshitha Mashetty",
+      "Designation": "Social Media Head",
+      "email": "akshitha_m@vnrvjiet.in",
+      "contact": "9000689038"
+    },
+    {
+      "Name": "Sanjana Gunturu",
+      "Designation": "Design Team Head",
+      "email": "sanjana_g@vnrvjiet.in",
+      "contact": "8790543213"
+    }
+  ],
+  "IEEE": [
+    {
+      "Name": "Mrs. D. Kanthi Sudha",
+      "Designation": "Faculty coordinator-1",
+      "email": "kanthi_sudha@vnrvjiet.in",
+      "contact": "9873619038"
+    },
+    {
+      "Name": "Dr. K Kalyan Srinivas",
+      "Designation": "Faculty coordinator-2",
+      "email": "kalyan_k@vnrvjiet.in",
+      "contact": "9865489990"
+    },
+    {
+      "Name": "Vinay",
+      "Designation": "Chairperson",
+      "email": "vinay@vnrvjiet.in",
+      "contact": "9876733038"
+    },
+    {
+      "Name": "Pradhyuth",
+      "Designation": "Vice Chairperson",
+      "email": "pradyuth@vnrvjiet.in",
+      "contact": "9000619038"
+    },
+    {
+      "Name": "Sai Srinivas",
+      "Designation": "Secretary",
+      "email": "sai_s@vnrvjiet.in",
+      "contact": "9000689038"
+    }
+  ],
+  "TuringHut": [
+    {
+      "Name": "N. Tapan Ganesh",
+      "Designation": "Core Member",
+      "email": "tapan@vnrvjiet.in",
+      "contact": "9873619038"
+    },
+    {
+      "Name": "E. Keerthana",
+      "Designation": "Problem Setter",
+      "email": "keerthana_e@vnrvjiet.in",
+      "contact": "9865489990"
+    },
+    {
+      "Name": "K. Srilasya",
+      "Designation": "Development",
+      "email": "srilasya_k@vnrvjiet.in",
+      "contact": "9876733038"
+    },
+    {
+      "Name": "M. Abinay",
+      "Designation": "Mentor",
+      "email": "abinay_m@vnrvjiet.in",
+      "contact": "9000619038"
+    },
+    {
+      "Name": "M.Rithin",
+      "Designation": "Teaching",
+      "email": "rithin_m@vnrvjiet.in",
+      "contact": "9000689038"
+    },
+    {
+      "Name": "K. Hanish",
+      "Designation": "Mentor",
+      "email": "hanish_k@vnrvjiet.in",
+      "contact": "8790543213"
+    },
+    {
+      "Name": "K.Ashritha",
+      "Designation": "Design and Content",
+      "email": "ashritha_k@vnrvjiet.in",
+      "contact": "7865356890"
+    },
+    {
+      "Name": "B.Madhavi",
+      "Designation": "Design and Content",
+      "email": "madhavi_b@vnrvjiet.in",
+      "contact": "8654367009"
+    }
+  ],
+  "ISTE": [
+    {
+      "Name": "Srinivas",
+      "Designation": "Chairperson",
+      "email": "srinivas@vnrvjiet.in",
+      "contact": "9873619038"
+    },
+    {
+      "Name": "Kasyap",
+      "Designation": "President",
+      "email": "kasyap@vnrvjiet.in",
+      "contact": "9865489990"
+    },
+    {
+      "Name": "Maheshwar",
+      "Designation": "Secretary",
+      "email": "maheshwar@vnrvjiet.in",
+      "contact": "9876733038"
+    },
+    {
+      "Name": "Sashank",
+      "Designation": "Technical Head",
+      "email": "sashank@vnrvjiet.in",
+      "contact": "9000619038"
+    },
+    {
+      "Name": "Rakesh",
+      "Designation": "Director",
+      "email": "rakesh@vnrvjiet.in",
+      "contact": "9000689038"
+    },
+    {
+      "Name": "Raj Kumar",
+      "Designation": "Non technicalHead",
+      "email": "raj@vnrvjiet.in",
+      "contact": "8790543213"
+    },
+    {
+      "Name": "Nithesh",
+      "Designation": "Treasurer",
+      "email": "nithesh@vnrvjiet.in",
+      "contact": "7865356890"
+    },
+    {
+      "Name": "Priyamvada",
+      "Designation": "Social Media Head",
+      "email": "primayamvada@vnrvjiet.in",
+      "contact": "8654367009"
+    }
+  ]
+}
